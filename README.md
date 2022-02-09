@@ -1,1 +1,1 @@
-# Omicron tweets Sentiment Analysis
+# Sentiment Analysis of tweets regarding omicron
