@@ -1,1 +1,1 @@
-# Omicron-tweets--Sentiment-Analysis
+# Omicron tweets-Sentiment Analysis
